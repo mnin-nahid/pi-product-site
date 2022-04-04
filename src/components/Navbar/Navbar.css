@@ -1,0 +1,12 @@
+.navber{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+nav a{
+    margin-right: 20px;
+    font-size: 18px;
+}
