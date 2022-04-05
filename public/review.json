@@ -1,13 +1,13 @@
 [
     {
         "id" : 1,
-        "name" : "nahiduls islam",
+        "name" : "Nahiduls islam",
         "review" : "Another thing I am doing to see if I can boost the performance at all is getting a better MicroSD card. Dont get me wrong, the MicroSD card that ships with this kit is quite sufficient for almost everything and everyone, but I wanted a 64gb card so I went for a Sandisk Extreme Pro which is supposed to have some of the best performance in a Pi4(benchmarks available on Pi’s website). Hopefully this will make it just a bit faster.",
         "rating" : "5/5"
     },
     {
         "id" : 2,
-        "name" : "nayan",
+        "name" : "Nayan",
         "review" : "For all of its virtues the pi had some shortcomings as far as development went. You were always forced to ssh into it from a real computer if you planned on having a few chrome tabs opened while working on a project. Me personally, I like having several tabs up trying to research how to do one thing or another and could never do that on pi 1-3.",
         "rating" : "4.8/5"
     },

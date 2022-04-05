@@ -1,0 +1,8 @@
+.user-info{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 20px;
+}
+.review{
+    margin: 10px;
+}

@@ -1,5 +1,6 @@
 import React from 'react';
 import useReviews from '../../hooks/useReviews';
+import Review from '../Review/Review';
 import './Reviews.css'
 
 const Reviews = () => {
@@ -8,11 +9,7 @@ const Reviews = () => {
         <div>
             <div className="review-container">
                 {
-                    reviews.map(review => <div className='review'>
-                        <p>{review.name}</p>
-                        <p>Reating: {review.rating}</p>
-                        <p>{review.review}</p>
-                    </div>)
+                    reviews.map(rview => <Review key={rview.id} review={rview}></Review>)
                 }
             </div>
         </div>
