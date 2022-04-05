@@ -5,7 +5,10 @@ import './Navbar.css'
 const Navbar = () => {
     return (
         <div className='navber bg-slate-900 text-white'>
-            <h2 className='text-3xl'>PiTechReview</h2>
+            <h2 className='text-3xl'>
+                PiTechReview
+                <small className='text-xs'>by Nahid</small>
+            </h2>
             <nav>
                 <Link to='/'>Home</Link>
                 <Link to='reviews'>Reviews</Link>

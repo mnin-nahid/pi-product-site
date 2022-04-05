@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "name" : "nahiduls islam",
+        "review" : "Another thing I am doing to see if I can boost the performance at all is getting a better MicroSD card. Dont get me wrong, the MicroSD card that ships with this kit is quite sufficient for almost everything and everyone, but I wanted a 64gb card so I went for a Sandisk Extreme Pro which is supposed to have some of the best performance in a Pi4(benchmarks available on Pi’s website). Hopefully this will make it just a bit faster.",
+        "rating" : "5/5"
+    },
+    {
+        "id" : 2,
+        "name" : "nayan",
+        "review" : "For all of its virtues the pi had some shortcomings as far as development went. You were always forced to ssh into it from a real computer if you planned on having a few chrome tabs opened while working on a project. Me personally, I like having several tabs up trying to research how to do one thing or another and could never do that on pi 1-3.",
+        "rating" : "4.8/5"
+    },
+    {
+        "id" : 3,
+        "name" : "Jay Bells",
+        "review" : "Had a problem at first - plugged in case top with fan to GPIO pins 1 (red) and 14 (black) - device would not boot to NOOBS install. I contacted the vendor and they offered to send a replacement RPi4. Turns out that was unnecessary: I unplugged the case top with fan, and RPi4 booted to NOOBS install as it should. After install/update/restart I plugged in the case top/fan and all worked as vendor and other reviews said. Great device, great vendor support!",
+        "rating" : "4.6/5"
+    },
+    {
+        "id" : 4,
+        "name" : "Paul J Besl",
+        "review" : "This package is really wonderful. Up and running with or without fan in just a few minutes. This is a great very usable low-cost Linux desktop system in addition to all its hobbyist advantages.",
+        "rating" : "5/5"
+    },
+    {
+        "id" : 5,
+        "name" : "Kevin",
+        "review" : "Now this is my very first Raspberry Pi. I never knew what it was or even what it could do till I did some research on the raspberry pi 3 and I was so interested on what you could do so I was going to buy me one but never got around to it cause of issues and such but then I saw that the Raspberry Pi 4 came out. I took the plunge and got the complete kit so I would have everything needed to start it all off.",
+        "rating" : "5/5"
+    },
+    {
+        "id" : 6,
+        "name" : "Arif khondoker",
+        "review" : "This Raspberry Pi 4 B kit from Vilros has absolutely everything you need to build your Raspberry Pi 4 included. I highly recommend getting a kit that has a case with fan, as the RaspberryPi 4 B runs hot because of its increased performance. The kit overall is great, anyone who has built a computer or RaspberryPi before will feel right at home and breeze through installation of the heatsinks, the chipset inside the case, and plugging the fan in.",
+        "rating" : "4/5"
+    },
+    {
+        "id" : 7,
+        "name" : "Akash choudori",
+        "review" : " This is actually my first Raspberry Pi, but I have built many a desktop computer previously, but the fact that these kits are available without any markup is fantastic, it removes the guesswork from piecing together what you need to start. Installing Raspbian is a breeze, NOOBS pops up right as you boot for the first time.",
+        "rating" : "4.9/5"
+    },
+    {
+        "id" : 8,
+        "name" : "aziz mia",
+        "review" : " The performance of this little guy is impressive, I purchased the 2GB model while on sale from its normal $89.99 price to $69.99(cheaper at the time then the 1GB model which was $79.99, and significantly less then the 4GB model at $99.99). For the $69.99 price tag you really cant beat it, thats only a few dollars more then the standalone 2GB Raspberry Pi 4 B normally costs!",
+        "rating" : "4.7/5"
+    }
+]

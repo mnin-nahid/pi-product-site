@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import MyAreaChart from '../MyAreaChart/MyAreaChart';
+import MyBarChart from '../MyBarChart/MyBarChart';
 import MyLineChart from '../MyLineChart/MyLineChart';
 import MyPieChart from '../MyPieChart/MyPieChart';
 import MyRaderChart from '../MyRaderChart/MyRaderChart';
@@ -12,7 +12,7 @@ const Deshboard = () => {
                 <MyLineChart></MyLineChart>
             </div>
             <div className="area-chart">
-                <MyAreaChart></MyAreaChart>
+                <MyBarChart></MyBarChart>
             </div>
             <div className="pie-chart">
                 <MyPieChart></MyPieChart>
