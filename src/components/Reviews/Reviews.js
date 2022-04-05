@@ -4,7 +4,6 @@ import './Reviews.css'
 
 const Reviews = () => {
     const [reviews, setReviews] = useReviews();
-    console.log(reviews)
     return (
         <div>
             <h2>This is reviews section</h2>
